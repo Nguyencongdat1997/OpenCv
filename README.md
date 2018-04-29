@@ -1,4 +1,4 @@
 # OpenCv
 # Using:
-#  OpenCV3.2.0
-#  Python3.5
+	- OpenCV3.2.0
+	- Python3.5
